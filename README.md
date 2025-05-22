@@ -34,6 +34,12 @@
 
 ---
 
+## 🌎 Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Diego303&theme=tokyonight-duo&locale=es)](https://git.io/streak-stats)
+
+---
+
 ## 🌎 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegoarinf)
