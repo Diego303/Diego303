@@ -10,14 +10,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/DevOps-30336B?style=for-the-badge&logo=devops&logoColor=F5F6FA"/>
   <img src="https://img.shields.io/badge/AIOps-130F40?style=for-the-badge&logo=ai&logoColor=F5F6FA"/>
-  <img src="https://img.shields.io/badge/Web-Developer-535C68?style=for-the-badge"/>
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-¡Hola! Soy Diego, ingeniero DevOps y AIOps apasionado por la automatización, la nube, la inteligencia artificial y el desarrollo web. Me motiva crear soluciones innovadoras que hagan la tecnología más eficiente y accesible.
+¡Hola! Soy Diego, ingeniero DevOps y AIOps apasionado por la automatización, la nube, la inteligencia artificial y el desarrollo. Me motiva crear soluciones innovadoras que hagan la tecnología más eficiente y accesible.
 
 ---
 
@@ -30,7 +29,7 @@
 - **Especialidades:** Ingeniería de prompts, TensorFlow, Keras, Ollama, diseño de soluciones con integración de IA
 
 ### 🌐 Web Development
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React y Astro
 
 ---
 
