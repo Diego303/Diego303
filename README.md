@@ -26,7 +26,7 @@
 - **Lenguajes y Herramientas:** Python, Terraform, Kubernetes, Docker, Ansible, New Relic, Azure Cloud, API Rest, Java
 
 ### 🤖 AIOps
-- **Especialidades:** Ingeniería de prompts, TensorFlow, Keras, Ollama, diseño de soluciones con integración de IA
+- **Especialidades:** Diseño de soluciones con integración de IA, Langchain, Agentes de IA, MCP Servers, A2A
 
 ### 🌐 Web Development
 - **Frontend:** HTML, CSS, JavaScript, React y Astro
