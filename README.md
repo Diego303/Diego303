@@ -1,10 +1,13 @@
 <!--
   Perfil README · Diego303
-  Tema: oscuro. Badges: shields.io + simple-icons. 
+  Badges: shields.io + simple-icons.
 -->
 
+<h1 align="center">Diego Alba Ruiz</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A2E&height=120&section=header&text=Diego%20Alba%20Ruiz&fontColor=F5F6FA&fontSize=40&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20Platforms%20%26%20DevOps&descSize=18&descAlignY=72" alt="Diego Alba Ruiz · AI Engineer · Agentic AI Platforms & DevOps"/>
+  <b>AI Engineer · Agentic AI Platforms &amp; DevOps</b><br/>
+  <sub>Agentes de IA · Sistemas multi-agente · Kubernetes · Cloud</sub>
 </p>
 
 <p align="center">
@@ -116,6 +119,4 @@ Me muevo entre dos mundos que rara vez van juntos: diseño y desarrollo solucion
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=22223B&height=60&section=footer&text=Siempre%20aprendiendo%2C%20siempre%20construyendo&fontColor=F5F6FA&fontSize=16&fontAlignY=50" alt="Siempre aprendiendo, siempre construyendo"/>
-</p>
+<p align="center"><sub>Siempre aprendiendo, siempre construyendo.</sub></p>
